@@ -1,0 +1,138 @@
+
+* {
+  margin:0;
+  padding:0;
+}
+.support-ukrainians {
+    margin-top:15px;
+    text-align:  center;
+  font-weight:bold;
+}
+.wrapper {
+    width: 1100px;
+    margin:0 auto;
+}
+
+.waves-first-yellow {
+    display: block;
+    height: 52px;
+    background-image: url(./wave.svg);
+    background-repeat: repeat-x;
+    background-size: contain;
+    background-position: center center;
+
+}
+
+.waves-second-yellow {
+    display: block;
+    height: 52px;
+    background-image: url(./wave2.svg);
+    background-repeat: repeat-x;
+    background-size: contain;
+    background-position: center center;
+
+}
+.waveswhite-first {
+    display: block;
+    height: 52px;
+    background-image: url(./wavewhite.svg);
+    background-repeat: repeat-x;
+    background-size: contain;
+    background-position: center center;
+
+}
+.waveswhite-second {
+    display: block;
+    height: 52px;
+    background-image: url(./wavewhite2.svg);
+    background-repeat: repeat-x;
+    background-size: contain;
+    background-position: center center;
+
+}
+.svgblock {
+  margin-left:15%;
+}
+.donation-text {
+  margin-left:15%;
+}
+.donation-numbers {
+  margin-left:15%;
+}
+.block-second {
+  background-color: #fff600;
+}
+.textcols {
+    white-space: nowrap;
+}
+.textcols-item {
+    white-space: normal;	
+    display: inline-block;
+    width: 40%;
+    vertical-align: top;
+    margin-left: 80px;
+}
+.textcols .textcols-item:first-child {
+    margin-right: 4%;
+}
+.goal {
+  border: 2px solid white;
+  border-radius: 30px;
+  width: 80%;
+  margin-right: 100%;
+  padding:20px;
+}
+.block-third {
+  background-image: url(./assets/logo.png);
+  background-repeat: no-repeat;
+  background-size: 100%;
+
+}
+.image-resizer {
+  height: 500px;
+}
+.textcols-second {
+  white-space: nowrap;
+  margin-left: 14%;
+}
+.textcols-item-second {
+  white-space: normal;	
+  display: inline-block;
+  vertical-align: top;
+  width: 48%;
+}
+
+.textcols-second .textcols-item-second:first-child {
+  margin-right: 4%;
+}
+.block-fifth {
+  background-color:#fff600;
+  padding: 30px;
+  text-align:center;
+}
+.block-sixth {
+  background-color:#004DFF;
+  padding: 30px;
+  text-align:center;
+}
+.campaign {
+  margin-left: 25px;
+}
+.hurt {
+
+  margin-left:790px;
+  margin-top: -200px;
+  width:140px;
+}
+.support-ukrainians-font {
+  font-size: 60px;
+}
+.donation-font {
+  font-size: 40px;
+}
+.donation-number {
+  font-size: 50px;
+}
+.donation-numbers {
+  margin-top: 10px;
+}
